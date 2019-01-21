@@ -10,5 +10,6 @@ target 'HH1' do
   # Pods for HH1
   pod 'Firebase/Core'
   pod 'Firebase/Auth'
-
+  pod 'FLAnimatedImage'
+  pod 'Firebase/Database'
 end

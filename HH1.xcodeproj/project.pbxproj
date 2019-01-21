@@ -8,18 +8,36 @@
 
 /* Begin PBXBuildFile section */
 		A9B873BB262E4FBC37B4DF4E /* Pods_HH1.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 59DDABDD7F5DEB16F762921B /* Pods_HH1.framework */; };
+		E114A72421F54A5600824CB3 /* KneeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E114A72321F54A5600824CB3 /* KneeViewController.swift */; };
+		E114A72621F552BB00824CB3 /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E114A72521F552BB00824CB3 /* MediaPlayer.framework */; };
+		E114A72A21F5549900824CB3 /* ArmsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E114A72921F5549900824CB3 /* ArmsViewController.swift */; };
+		E114A72D21F5617C00824CB3 /* ezpose.MOV in Resources */ = {isa = PBXBuildFile; fileRef = E114A72C21F5617C00824CB3 /* ezpose.MOV */; };
 		E166321921F4D96900EF565D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E166321821F4D96900EF565D /* AppDelegate.swift */; };
 		E166321B21F4D96900EF565D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E166321A21F4D96900EF565D /* ViewController.swift */; };
 		E166321E21F4D96900EF565D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E166321C21F4D96900EF565D /* Main.storyboard */; };
 		E166322021F4D96900EF565D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E166321F21F4D96900EF565D /* Assets.xcassets */; };
 		E166322321F4D96900EF565D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E166322121F4D96900EF565D /* LaunchScreen.storyboard */; };
 		E166322B21F4D9AF00EF565D /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = E166322A21F4D9AF00EF565D /* GoogleService-Info.plist */; };
+		E166322D21F4FD7D00EF565D /* skyhealth.png in Resources */ = {isa = PBXBuildFile; fileRef = E166322C21F4FD7D00EF565D /* skyhealth.png */; };
+		E166322F21F4FF4A00EF565D /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E166322E21F4FF4A00EF565D /* MainViewController.swift */; };
+		E166323121F501CA00EF565D /* thisimage.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E166323021F501CA00EF565D /* thisimage.jpeg */; };
+		E166323321F5021900EF565D /* milkgalaxy.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E166323221F5021900EF565D /* milkgalaxy.jpeg */; };
+		E166323521F502BF00EF565D /* bg.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E166323421F502BF00EF565D /* bg.jpeg */; };
+		E166323721F5097100EF565D /* pinkheart.png in Resources */ = {isa = PBXBuildFile; fileRef = E166323621F5097100EF565D /* pinkheart.png */; };
+		E166323921F50DA700EF565D /* Orangeheart.png in Resources */ = {isa = PBXBuildFile; fileRef = E166323821F50DA700EF565D /* Orangeheart.png */; };
+		E166324221F5269600EF565D /* LogInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E166324121F5269600EF565D /* LogInViewController.swift */; };
+		E166324621F53C0000EF565D /* QuestionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E166324521F53C0000EF565D /* QuestionViewController.swift */; };
+		E166324821F53E8600EF565D /* BasicInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E166324721F53E8600EF565D /* BasicInfoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		59DDABDD7F5DEB16F762921B /* Pods_HH1.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HH1.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6133DCC5C219C75619A02C89 /* Pods-HH1.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HH1.debug.xcconfig"; path = "Pods/Target Support Files/Pods-HH1/Pods-HH1.debug.xcconfig"; sourceTree = "<group>"; };
 		9C0CCB6EFE17B9EE0D61BFD5 /* Pods-HH1.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HH1.release.xcconfig"; path = "Pods/Target Support Files/Pods-HH1/Pods-HH1.release.xcconfig"; sourceTree = "<group>"; };
+		E114A72321F54A5600824CB3 /* KneeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KneeViewController.swift; sourceTree = "<group>"; };
+		E114A72521F552BB00824CB3 /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = System/Library/Frameworks/MediaPlayer.framework; sourceTree = SDKROOT; };
+		E114A72921F5549900824CB3 /* ArmsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArmsViewController.swift; sourceTree = "<group>"; };
+		E114A72C21F5617C00824CB3 /* ezpose.MOV */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = ezpose.MOV; path = ../../Downloads/ezpose.MOV; sourceTree = "<group>"; };
 		E166321521F4D96900EF565D /* HH1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HH1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E166321821F4D96900EF565D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E166321A21F4D96900EF565D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -28,6 +46,16 @@
 		E166322221F4D96900EF565D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E166322421F4D96900EF565D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E166322A21F4D9AF00EF565D /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
+		E166322C21F4FD7D00EF565D /* skyhealth.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = skyhealth.png; path = ../../../Desktop/skyhealth.png; sourceTree = "<group>"; };
+		E166322E21F4FF4A00EF565D /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
+		E166323021F501CA00EF565D /* thisimage.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = thisimage.jpeg; path = ../../../Downloads/thisimage.jpeg; sourceTree = "<group>"; };
+		E166323221F5021900EF565D /* milkgalaxy.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = milkgalaxy.jpeg; path = ../../../Downloads/milkgalaxy.jpeg; sourceTree = "<group>"; };
+		E166323421F502BF00EF565D /* bg.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = bg.jpeg; path = ../../../Downloads/bg.jpeg; sourceTree = "<group>"; };
+		E166323621F5097100EF565D /* pinkheart.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = pinkheart.png; path = ../../../../../var/folders/9q/x04pzllx0731dv_t178c8dnm0000gq/T/com.apple.iChat/Messages/Transfers/pinkheart.png; sourceTree = "<group>"; };
+		E166323821F50DA700EF565D /* Orangeheart.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Orangeheart.png; path = ../../../../../var/folders/9q/x04pzllx0731dv_t178c8dnm0000gq/T/com.apple.iChat/Messages/Transfers/Orangeheart.png; sourceTree = "<group>"; };
+		E166324121F5269600EF565D /* LogInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogInViewController.swift; sourceTree = "<group>"; };
+		E166324521F53C0000EF565D /* QuestionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionViewController.swift; sourceTree = "<group>"; };
+		E166324721F53E8600EF565D /* BasicInfoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicInfoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +63,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E114A72621F552BB00824CB3 /* MediaPlayer.framework in Frameworks */,
 				A9B873BB262E4FBC37B4DF4E /* Pods_HH1.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -45,6 +74,7 @@
 		39FA7C5705AC621B1E5BCD1B /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				E114A72521F552BB00824CB3 /* MediaPlayer.framework */,
 				59DDABDD7F5DEB16F762921B /* Pods_HH1.framework */,
 			);
 			name = Frameworks;
@@ -62,6 +92,7 @@
 		E166320C21F4D96900EF565D = {
 			isa = PBXGroup;
 			children = (
+				E114A72C21F5617C00824CB3 /* ezpose.MOV */,
 				E166321721F4D96900EF565D /* HH1 */,
 				E166321621F4D96900EF565D /* Products */,
 				6FD1B232F151D7A9482A6FDC /* Pods */,
@@ -83,7 +114,19 @@
 				E166321821F4D96900EF565D /* AppDelegate.swift */,
 				E166321A21F4D96900EF565D /* ViewController.swift */,
 				E166321C21F4D96900EF565D /* Main.storyboard */,
+				E114A72921F5549900824CB3 /* ArmsViewController.swift */,
+				E114A72321F54A5600824CB3 /* KneeViewController.swift */,
+				E166324121F5269600EF565D /* LogInViewController.swift */,
+				E166324521F53C0000EF565D /* QuestionViewController.swift */,
+				E166324721F53E8600EF565D /* BasicInfoViewController.swift */,
+				E166322E21F4FF4A00EF565D /* MainViewController.swift */,
 				E166321F21F4D96900EF565D /* Assets.xcassets */,
+				E166323821F50DA700EF565D /* Orangeheart.png */,
+				E166323621F5097100EF565D /* pinkheart.png */,
+				E166323221F5021900EF565D /* milkgalaxy.jpeg */,
+				E166323421F502BF00EF565D /* bg.jpeg */,
+				E166323021F501CA00EF565D /* thisimage.jpeg */,
+				E166322C21F4FD7D00EF565D /* skyhealth.png */,
 				E166322121F4D96900EF565D /* LaunchScreen.storyboard */,
 				E166322421F4D96900EF565D /* Info.plist */,
 				E166322A21F4D9AF00EF565D /* GoogleService-Info.plist */,
@@ -151,9 +194,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E166323721F5097100EF565D /* pinkheart.png in Resources */,
+				E166323321F5021900EF565D /* milkgalaxy.jpeg in Resources */,
 				E166322321F4D96900EF565D /* LaunchScreen.storyboard in Resources */,
+				E166323121F501CA00EF565D /* thisimage.jpeg in Resources */,
 				E166322B21F4D9AF00EF565D /* GoogleService-Info.plist in Resources */,
+				E166323521F502BF00EF565D /* bg.jpeg in Resources */,
+				E166322D21F4FD7D00EF565D /* skyhealth.png in Resources */,
 				E166322021F4D96900EF565D /* Assets.xcassets in Resources */,
+				E114A72D21F5617C00824CB3 /* ezpose.MOV in Resources */,
+				E166323921F50DA700EF565D /* Orangeheart.png in Resources */,
 				E166321E21F4D96900EF565D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -168,14 +218,18 @@
 			);
 			inputPaths = (
 				"${SRCROOT}/Pods/Target Support Files/Pods-HH1/Pods-HH1-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/FLAnimatedImage/FLAnimatedImage.framework",
 				"${BUILT_PRODUCTS_DIR}/GTMSessionFetcher/GTMSessionFetcher.framework",
 				"${BUILT_PRODUCTS_DIR}/GoogleUtilities/GoogleUtilities.framework",
+				"${BUILT_PRODUCTS_DIR}/leveldb-library/leveldb.framework",
 				"${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FLAnimatedImage.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GTMSessionFetcher.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GoogleUtilities.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/leveldb.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/nanopb.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -208,6 +262,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E166324221F5269600EF565D /* LogInViewController.swift in Sources */,
+				E166324821F53E8600EF565D /* BasicInfoViewController.swift in Sources */,
+				E166324621F53C0000EF565D /* QuestionViewController.swift in Sources */,
+				E166322F21F4FF4A00EF565D /* MainViewController.swift in Sources */,
+				E114A72421F54A5600824CB3 /* KneeViewController.swift in Sources */,
+				E114A72A21F5549900824CB3 /* ArmsViewController.swift in Sources */,
 				E166321B21F4D96900EF565D /* ViewController.swift in Sources */,
 				E166321921F4D96900EF565D /* AppDelegate.swift in Sources */,
 			);
